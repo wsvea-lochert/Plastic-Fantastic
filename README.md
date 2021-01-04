@@ -28,7 +28,7 @@ img_dir = ImageAugment(data_dir='path_to_directory', output_path='path_to_output
 img_dir.horizontal_img_flip()
 ```
 
-####img_dir.vertical_img_flip()
+#### img_dir.vertical_img_flip()
 ```python
 img_dir = ImageAugment(data_dir='path_to_directory', output_path='path_to_output_dir')
 img_dir.vertical_img_flip()
